@@ -1,6 +1,6 @@
 # Student Performance Prediction Project
 
-This project uses various Python-based libraries to create different machine learning models to predict the grade of a student based on a number of factors such as age, extracurricular activities, parental influence and study habits, achieving 93% accuracy on test data.
+This project uses various Python-based libraries to create different machine learning models to predict the grade of a student based on a number of factors such as age, extracurricular activities, parental influence and study habits, achieving 75% accuracy on test data.
 
 ## Data
 The data that the model will be learning from and making predictions on was created by Rabie El Kharoua, and the dataset can be found on Kaggle.  
